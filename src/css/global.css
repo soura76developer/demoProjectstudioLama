@@ -1,0 +1,94 @@
+:root{
+    --primary_purple:#7c55c5;
+    --secondary_purple:#8065c4;
+    --lite_purple:#ede7f6;
+    --green:#30c09d;
+}
+/* Header */
+.indicator_one,.indicator_two,.indicator_three,.indicator_four{
+    height: 15px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: var(--primary_purple);
+}
+/* Header */
+
+/* introduction_page */
+.headerTextStyle{
+    font-family: 'Aboreto', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Libre Bodoni', serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Tapestry', cursive;
+    font-family: 'Ubuntu', sans-serif;
+
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.callInput{
+    border: 1px solid gray;
+    padding: 2px 2px;
+    border-radius: 5px;
+}
+
+/* .btn_style{
+    background-color: gray;
+    color: darkslategray;
+    width: 500px;
+    border-radius:5px ;
+} */
+
+/* introduction_page */
+
+/* second_page */
+.second_page_element{
+    border: 1px solid #f3f3f3;
+    border-radius: 7px;
+}
+.icon_style_second_page{
+
+    color:var(--green);
+    font-size: 23px;
+}
+.font_one_style{
+    
+    font-family: 'Aboreto', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Libre Bodoni', serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Tapestry', cursive;
+    font-family: 'Ubuntu', sans-serif;
+
+    font-weight: 900;
+}
+.font_two_style{
+    font-size: smaller;
+}
+
+.Active{
+    background-color:#ede7f6;
+    color:var(--primary_purple);
+}
+/* second_page */
+
+/* third_page */
+/* third_page */
+
+/* fourth_page */
+/* fourth_page */
+
+
+/* fifth_page */
+/* fifth_page */
+
